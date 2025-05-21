@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 import { ModeToggle } from "@/components/molecules/ModeToggle";
 
 export default function Home() {
